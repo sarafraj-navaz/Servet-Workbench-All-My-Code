@@ -1,0 +1,14 @@
+127.0.0.1 - - [20/Sep/2023:20:26:12 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [20/Sep/2023:20:26:17 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 426
+127.0.0.1 - - [20/Sep/2023:20:26:51 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 437
+127.0.0.1 - - [20/Sep/2023:20:28:37 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 603
+127.0.0.1 - - [20/Sep/2023:20:37:27 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 603
+127.0.0.1 - - [20/Sep/2023:20:38:05 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 603
+127.0.0.1 - - [20/Sep/2023:20:38:06 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 603
+127.0.0.1 - - [20/Sep/2023:20:38:06 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 603
+127.0.0.1 - - [20/Sep/2023:23:38:22 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [20/Sep/2023:23:38:26 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 500 3380
+127.0.0.1 - - [20/Sep/2023:23:38:26 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [20/Sep/2023:23:43:24 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [20/Sep/2023:23:43:28 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 572
+127.0.0.1 - - [20/Sep/2023:23:44:26 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 572

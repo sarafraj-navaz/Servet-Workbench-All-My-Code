@@ -1,0 +1,8 @@
+package collection_all_List;
+
+public class RemoveDoublicateFrom_Array {
+	public static void main(String[] args) {
+		int[] a= {12,34,45,67,55,12,34,45};
+		removeDoublicate(a);
+	}
+}

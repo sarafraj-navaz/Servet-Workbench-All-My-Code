@@ -1,0 +1,13 @@
+127.0.0.1 - - [10/Jan/2024:22:11:09 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [10/Jan/2024:22:11:13 +0530] "GET /servlets-demo-project0/display.jsp HTTP/1.1" 200 1523
+127.0.0.1 - - [10/Jan/2024:22:11:45 +0530] "GET /servlets-demo-project0/insert.jsp HTTP/1.1" 200 905
+127.0.0.1 - - [10/Jan/2024:22:12:06 +0530] "GET /servlets-demo-project0/insert?Username=nehal&Useremail=n%40gmail.com&Number=76171827&MyGender=Male&MyAddress=NOIDA HTTP/1.1" 200 905
+127.0.0.1 - - [10/Jan/2024:22:12:41 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [10/Jan/2024:22:12:42 +0530] "GET /servlets-demo-project0/WEB-INF/classes/com/jsp/servlet_demo_project0/controller/InsertController.java HTTP/1.1" 404 682
+127.0.0.1 - - [10/Jan/2024:22:15:55 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [10/Jan/2024:22:15:57 +0530] "GET /servlets-demo-project0/insert.jsp HTTP/1.1" 200 905
+127.0.0.1 - - [10/Jan/2024:22:15:57 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [10/Jan/2024:22:16:14 +0530] "GET /servlets-demo-project0/insert?Username=neha&Useremail=mmm%40gmail.com&Number=09320&MyGender=Male&MyAddress=NOIDA HTTP/1.1" 200 905
+127.0.0.1 - - [10/Jan/2024:22:17:23 +0530] "GET /servlets-demo-project0/display.jsp HTTP/1.1" 200 2140
+127.0.0.1 - - [10/Jan/2024:22:17:26 +0530] "GET /servlets-demo-project0/delete?id=6 HTTP/1.1" 200 1833
+127.0.0.1 - - [10/Jan/2024:22:17:29 +0530] "GET /servlets-demo-project0/edit.jsp?id=5 HTTP/1.1" 200 1095

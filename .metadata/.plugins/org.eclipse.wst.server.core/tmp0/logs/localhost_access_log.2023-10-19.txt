@@ -1,0 +1,15 @@
+127.0.0.1 - - [19/Oct/2023:12:21:59 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [19/Oct/2023:12:22:04 +0530] "GET /J-Cart-Web-App/owner-home.jsp HTTP/1.1" 200 253
+127.0.0.1 - - [19/Oct/2023:12:51:49 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [19/Oct/2023:12:51:52 +0530] "GET /J-Cart-Web-App/owner-home.jsp HTTP/1.1" 200 586
+127.0.0.1 - - [19/Oct/2023:12:52:18 +0530] "GET /J-Cart-Web-App/add-product-owner.jsp HTTP/1.1" 200 1200
+127.0.0.1 - - [19/Oct/2023:13:17:45 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [19/Oct/2023:13:17:47 +0530] "GET /J-Cart-Web-App/ HTTP/1.1" 200 370
+127.0.0.1 - - [19/Oct/2023:13:17:47 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [19/Oct/2023:13:18:40 +0530] "GET /J-Cart-Web-App/ HTTP/1.1" 200 370
+127.0.0.1 - - [19/Oct/2023:13:18:42 +0530] "GET /J-Cart-Web-App/owner-login.jsp HTTP/1.1" 200 841
+127.0.0.1 - - [19/Oct/2023:13:18:49 +0530] "GET /J-Cart-Web-App/app-home.jsp HTTP/1.1" 200 370
+127.0.0.1 - - [19/Oct/2023:13:18:55 +0530] "GET /J-Cart-Web-App/user-login.jsp HTTP/1.1" 200 1075
+127.0.0.1 - - [19/Oct/2023:13:18:55 +0530] "GET /J-Cart-Web-App/style.css HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2023:13:18:55 +0530] "GET /J-Cart-Web-App/bg-images.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [19/Oct/2023:13:19:16 +0530] "GET /J-Cart-Web-App/user-register.jsp HTTP/1.1" 200 1044

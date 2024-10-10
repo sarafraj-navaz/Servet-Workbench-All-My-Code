@@ -1,0 +1,8 @@
+package collection_all_List;
+
+public class Termary_Operator_Condition_Use {
+	public static void main(String[] args) {
+		int a=1,b=2,c=3;
+		int res=a>b?(a>c?a:c):(b>c?b:c);
+	}
+}

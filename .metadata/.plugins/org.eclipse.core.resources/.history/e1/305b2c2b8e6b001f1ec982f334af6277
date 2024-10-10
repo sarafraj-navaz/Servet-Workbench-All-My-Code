@@ -1,0 +1,13 @@
+package collection_all_List;
+
+import java.util.Arrays;
+
+public class RemoveDoublicateFrom_Array {
+	public static void main(String[] args) {
+		int[] a= {12,34,45,67,55,12,34,45};
+		System.out.println(Arrays.toString(removeDoublicate(a);));
+	}
+	public static int[] removeDoublicate(int[] a) {
+		return a;
+	}
+}

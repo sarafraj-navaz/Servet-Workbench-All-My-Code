@@ -1,0 +1,14 @@
+127.0.0.1 - - [06/Nov/2023:23:13:17 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Nov/2023:23:13:19 +0530] "GET /J-Cart-Web-App/verify-owner.jsp HTTP/1.1" 200 910
+127.0.0.1 - - [06/Nov/2023:23:13:19 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [06/Nov/2023:23:13:23 +0530] "GET /J-Cart-Web-App/unverify?ownerid=1 HTTP/1.1" 200 507
+127.0.0.1 - - [06/Nov/2023:23:13:26 +0530] "GET /J-Cart-Web-App/unverify?ownerid=1 HTTP/1.1" 200 507
+127.0.0.1 - - [06/Nov/2023:23:13:41 +0530] "GET /J-Cart-Web-App/unverify-owner.jsp HTTP/1.1" 200 507
+127.0.0.1 - - [06/Nov/2023:23:13:46 +0530] "GET /J-Cart-Web-App/verify-owner.jsp HTTP/1.1" 200 910
+127.0.0.1 - - [06/Nov/2023:23:13:48 +0530] "GET /J-Cart-Web-App/unverify-owner.jsp HTTP/1.1" 200 507
+127.0.0.1 - - [06/Nov/2023:23:21:25 +0530] "GET /J-Cart-Web-App/unverify-owner.jsp HTTP/1.1" 200 735
+127.0.0.1 - - [06/Nov/2023:23:21:30 +0530] "GET /J-Cart-Web-App/verify?ownerid=1 HTTP/1.1" 200 910
+127.0.0.1 - - [06/Nov/2023:23:31:44 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [06/Nov/2023:23:31:46 +0530] "GET /J-Cart-Web-App/unverify-owner.jsp HTTP/1.1" 200 735
+127.0.0.1 - - [06/Nov/2023:23:31:52 +0530] "GET /J-Cart-Web-App/verify?ownerid=1 HTTP/1.1" 200 910
+127.0.0.1 - - [06/Nov/2023:23:40:56 +0530] "GET / HTTP/1.1" 404 751

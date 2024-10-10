@@ -1,0 +1,7 @@
+127.0.0.1 - - [03/Oct/2023:22:43:06 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [03/Oct/2023:22:43:09 +0530] "GET /servlet-demo-projects/index.jsp HTTP/1.1" 200 821
+127.0.0.1 - - [03/Oct/2023:22:43:09 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [03/Oct/2023:22:43:26 +0530] "GET /servlet-demo-projects/edit.jsp HTTP/1.1" 500 2417
+127.0.0.1 - - [03/Oct/2023:22:43:40 +0530] "GET /servlet-demo-projects/displayAll.jsp HTTP/1.1" 200 700
+127.0.0.1 - - [03/Oct/2023:22:43:48 +0530] "GET /servlet-demo-projects/edit.jsp?id=1 HTTP/1.1" 200 903
+127.0.0.1 - - [03/Oct/2023:22:43:53 +0530] "GET /servlet-demo-projects/myData?myName=sarafraj+navaz&myEmail=sarafraj%40gmail.com&myPhone=3456789&myGender=Male&myAddress=noida HTTP/1.1" 500 1201
